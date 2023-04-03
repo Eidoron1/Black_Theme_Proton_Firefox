@@ -193,7 +193,7 @@ html[sizemode="maximized"] #titlebar #TabsToolbar {
     color: #E76463 !important;
 }
 .urlbarView {
-    background: #363636 !important;
+    background: #1d1d1d !important;
 }
 .urlbarView-row:not([type="tip"], [type="dynamic"])[selected] > .urlbarView-row-inner, .urlbarView-row-inner[selected] {
 	background: #202020 !important;
