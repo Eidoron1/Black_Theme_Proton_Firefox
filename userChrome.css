@@ -196,12 +196,12 @@ html[sizemode="maximized"] #titlebar #TabsToolbar {
     background: #1d1d1d !important;
 }
 .urlbarView-row:not([type="tip"], [type="dynamic"])[selected] > .urlbarView-row-inner, .urlbarView-row-inner[selected] {
-	background: #202020 !important;
+	background: #0a0a0a !important;
 }
 .urlbarView-row[dynamicType="onboardTabToSearch"]:hover > .urlbarView-row-inner, 
 .urlbarView-row:not([type="tip"], [type="dynamic"], [has-help]):hover > .urlbarView-row-inner, .urlbarView-row[has-help] > .urlbarView-row-inner:not([selected]):hover,
 .searchbar-engine-one-off-item:not([selected]):hover, .addengine-item:hover {
-    background: #363636 !important;
+    background: #0a0a0a !important;
 }
 .urlbarView .urlbarView-results .urlbarView-row .urlbarView-title {
 	color: #D7DEEA !important
