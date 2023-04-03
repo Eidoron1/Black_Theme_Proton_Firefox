@@ -307,14 +307,14 @@ panelview .toolbarbutton-1:not([disabled], [open], :active):is(:hover), toolbarb
 /*================== SEARCH BAR ==================*/
 searchbar#searchbar {
 	border: 0 !important;
-	background-color: #202020 !important;
+	background-color: #1d1d1d !important;
 	box-shadow: none !important;
 }
 
 /*================== SIDEBAR ==================*/
 #sidebar-box,
 .sidebar-panel[lwt-sidebar-brighttext] {
-	background-color: #202020 !important;
+	background-color: #1f1f1f !important;
 }
 
 }
