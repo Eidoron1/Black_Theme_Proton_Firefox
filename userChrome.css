@@ -208,7 +208,7 @@ html[sizemode="maximized"] #titlebar #TabsToolbar {
 }
 
 .tab-background[multiselected="true"], .tab-background[selected="true"] {
-	background: #363636 !important;
+	background: #1d1d1d !important;
 	box-shadow: none !important;
 }
 .tabbrowser-tab[selected="true"] .tab-label {
@@ -240,7 +240,7 @@ toolbar #tabs-newtab-button:hover:not([disabled="true"]):not([checked]):not([ope
 #new-tab-button:hover > .toolbarbutton-icon,
 #scrollbutton-up:hover,
 #scrollbutton-down:hover {
-	background-color: #202020 !important;
+	background-color: #1f1f1f !important;
 }
 
 toolbar#nav-bar.browser-toolbar #urlbar-container .urlbar-icon-wrapper,
