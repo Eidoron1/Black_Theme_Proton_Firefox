@@ -49,7 +49,7 @@
 .outer-wrapper.newtab-experience .search-wrapper .search-handoff-button, .outer-wrapper.newtab-experience .search-wrapper input,
 html body.activity-stream div#root div span button.personalize-button {
 	transition: all 0.3s ease !important;
-	background-color: rgba(var(--dark-color-light), 1) !important;
+	background-color: #0a0a0a !important;
 	color: rgba(var(--dark-color-text), 1) !important;
 }
 html body.activity-stream div#root div span button.personalize-button:hover {
