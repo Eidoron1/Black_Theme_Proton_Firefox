@@ -144,17 +144,17 @@ html[sizemode="maximized"] #titlebar #TabsToolbar {
 @media (prefers-color-scheme: dark) {
 
 #TabsToolbar > .titlebar-buttonbox-container {
-    background: #202020 !important;
+    background: #0a0a0a !important;
 }
 	
 #titlebar #TabsToolbar {
-	background: #202020 !important;
+	background: #0a0a0a !important;
 }
 
 .titlebar-button {
 	transition: all 0.3s ease !important;
 	padding: 8px 10px !important;
-    background: #202020 !important;
+    background: #0a0a0a !important;
 }
 .titlebar-button > .toolbarbutton-icon {
 	transition: all 0.3s ease !important;
