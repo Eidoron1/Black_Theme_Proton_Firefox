@@ -183,7 +183,7 @@ html[sizemode="maximized"] #titlebar #TabsToolbar {
 }
 
 #urlbar-background {
-	background: #363636 !important;
+	background: #1d1d1d !important;
 }
 #urlbar-input, #urlbar-scheme,
 .searchbar-textbox {
