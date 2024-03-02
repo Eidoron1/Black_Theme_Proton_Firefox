@@ -15,7 +15,6 @@
 ![](https://imgur.com/OpnMBtT.png)
 
 - Extract it to your local folder
-- Once its extracted, except for the README file copy everything into one folder and name it `chrome`
 - Copy the `chrome` folder 
 
 # Installation
@@ -26,7 +25,7 @@
 ![](https://imgur.com/fKoJwdG.png)
 
 - Since I am using a release build, I can get the folder path in `Profile:default-release`
-- Locate your root folder and go to that folder, and in that folder paster the `chrome` folder that you copied
+- Locate your root folder and go to that folder, and in that folder paste the `chrome` folder that you copied
 - Now simply restart the firefox and enjoy
 
 # This is a modification over [Neikon/Almost-Dark-Grey-Colorfull-Proton---FirefoxCSS-Themes](https://github.com/Neikon/Almost-Dark-Grey-Colorfull-Proton---FirefoxCSS-Themes)
