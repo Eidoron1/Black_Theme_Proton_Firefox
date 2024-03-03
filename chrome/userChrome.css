@@ -303,6 +303,9 @@ panelview .toolbarbutton-1:not([disabled], [open], :active):is(:hover), toolbarb
     background-color: transparent !important;
 }
 
+.tabbrowser-tab[selected="true"] .tab-background {
+    background-color: #1d1d1d !important;
+}
 
 /*================== SEARCH BAR ==================*/
 searchbar#searchbar {
