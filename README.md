@@ -1,12 +1,7 @@
 # Black Proton Theme for Firefox
 ![](https://imgur.com/7OFEZcL.png)
- 
-- First of all go to firefox and go to `about:config`
-- It will show a warning dialogue like the image below:
-![](https://imgur.com/undefined.png)
-- You can simply ignore it and click on accept the risk and continue
-- Now search for `toolkit.legacyUserProfileCustomizations.stylesheets`
-- By default it is false, double click it to set it to `true`
+
+### Installation
 
 # Download
 
