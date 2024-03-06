@@ -52,7 +52,12 @@
     }
 
     .rich-icon,.tile,.top-site-icon {
-        background-color: #0a0a0a!important
+        background-color: transparent !important
+    }
+    .rich-icon:hover,
+    .tile:hover,
+    .top-site-icon:hover {
+        background-color: transparent !important;
     }
     .search-wrapper .search-handoff-button,
     .search-wrapper input {
