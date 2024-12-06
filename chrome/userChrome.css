@@ -152,15 +152,20 @@ html[sizemode="maximized"] #titlebar #TabsToolbar {
 }
 
 .titlebar-button {
-	transition: all 0.3s ease !important;
-	padding: 8px 10px !important;
-    background: #0a0a0a !important;
+    padding: 2px !important;
+    margin: 2px !important;
+    border-radius: 50% !important;
+    width: auto !important;
+    height: auto !important;
 }
+
 .titlebar-button > .toolbarbutton-icon {
-	transition: all 0.3s ease !important;
-	list-style-image: none;
-	border-radius: 10px;
+    width: 14px !important;
+    height: 14px !important;
+    background: transparent !important;
+    border-radius: 50% !important;
 }
+
 .titlebar-button.titlebar-min > .toolbarbutton-icon {
 	background: #31c346 !important;
 }
